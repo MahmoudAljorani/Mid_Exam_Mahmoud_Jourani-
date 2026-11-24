@@ -1,0 +1,9 @@
+<resources>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="question_article">Like the article?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="yes_message">Thanks, glad you liked it!</string>
+    <string name="no_message">Sorry you did not like it.</string>
+</resources>
